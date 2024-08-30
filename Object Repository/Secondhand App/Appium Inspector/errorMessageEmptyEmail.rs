@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>errorMessageEmptyEmail</name>
+   <tag></tag>
+   <elementGuidId>6a23d0d7-dc4a-44c9-bdde-cf5bdb5b100a</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>id.binar.fp.secondhand:id/textinput_error</value>
+      <webElementGuid>c599447c-0ae6-4508-922b-5676b6a219a5</webElementGuid>
+   </webElementProperties>
+   <locator>id.binar.fp.secondhand:id/textinput_error</locator>
+   <locatorStrategy>ID</locatorStrategy>
+</MobileElementEntity>

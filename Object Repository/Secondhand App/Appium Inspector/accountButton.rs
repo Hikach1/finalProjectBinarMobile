@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>accountButton</name>
+   <tag></tag>
+   <elementGuidId>f4d395d8-d767-4d57-b137-a6c5447bb5d8</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//android.widget.ImageView[@resource-id=&quot;id.binar.fp.secondhand:id/navigation_bar_item_icon_view&quot;])[5]</value>
+      <webElementGuid>61a678a0-f656-4a1f-93b7-8baa2e7a4e1d</webElementGuid>
+   </webElementProperties>
+   <locator>(//android.widget.ImageView[@resource-id=&quot;id.binar.fp.secondhand:id/navigation_bar_item_icon_view&quot;])[5]</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</MobileElementEntity>

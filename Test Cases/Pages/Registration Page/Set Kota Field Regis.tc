@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Set Kota Field Regis</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8ba317f0-7ce5-456d-b4ea-d740b28e0d37</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bfccd3a0-de7c-4a90-87af-5e7cbe0ec26b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bfccd3a0-de7c-4a90-87af-5e7cbe0ec26b</id>
+      <masked>false</masked>
+      <name>kotaFieldRegis</name>
+   </variable>
+</TestCaseEntity>

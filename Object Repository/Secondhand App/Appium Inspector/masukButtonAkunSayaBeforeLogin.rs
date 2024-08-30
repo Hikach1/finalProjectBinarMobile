@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>masukButtonAkunSayaBeforeLogin</name>
+   <tag></tag>
+   <elementGuidId>57eaab56-9bda-4cd3-a14c-a2d96ae6f434</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.Button[@resource-id=&quot;id.binar.fp.secondhand:id/btn_login&quot;]</value>
+      <webElementGuid>f5d0d2ff-be07-4d92-bfad-a5c1dc478672</webElementGuid>
+   </webElementProperties>
+   <locator>//android.widget.Button[@resource-id=&quot;id.binar.fp.secondhand:id/btn_login&quot;]</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</MobileElementEntity>

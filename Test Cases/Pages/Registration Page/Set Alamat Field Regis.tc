@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Set Alamat Field Regis</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e09c50e-8460-4651-ac1e-25944b9a526a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a99545f5-3695-4a7c-884c-7100aa65e549</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a99545f5-3695-4a7c-884c-7100aa65e549</id>
+      <masked>false</masked>
+      <name>alamatFieldRegis</name>
+   </variable>
+</TestCaseEntity>

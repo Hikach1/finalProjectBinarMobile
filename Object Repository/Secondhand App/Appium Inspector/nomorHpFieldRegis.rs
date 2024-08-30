@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>nomorHpFieldRegis</name>
+   <tag></tag>
+   <elementGuidId>63b51f69-1217-41a0-b03b-54601278b4e7</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.EditText[@resource-id=&quot;id.binar.fp.secondhand:id/et_phone&quot;]</value>
+      <webElementGuid>4e49d946-e64d-4c2a-84d0-023110368d3a</webElementGuid>
+   </webElementProperties>
+   <locator>//android.widget.EditText[@resource-id=&quot;id.binar.fp.secondhand:id/et_phone&quot;]</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</MobileElementEntity>

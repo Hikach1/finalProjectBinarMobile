@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>nameFieldRegis</name>
+   <tag></tag>
+   <elementGuidId>d62b3d84-562e-499e-b17c-a9624faec300</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.EditText[@resource-id=&quot;id.binar.fp.secondhand:id/et_name&quot;]</value>
+      <webElementGuid>5659d375-6af1-4c2a-9bbe-5d95d80d3039</webElementGuid>
+   </webElementProperties>
+   <locator>//android.widget.EditText[@resource-id=&quot;id.binar.fp.secondhand:id/et_name&quot;]</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</MobileElementEntity>

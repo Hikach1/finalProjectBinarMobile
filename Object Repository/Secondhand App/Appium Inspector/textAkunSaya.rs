@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>textAkunSaya</name>
+   <tag></tag>
+   <elementGuidId>9201669e-5e2c-4c92-9920-7f44cc6606c0</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.TextView[@resource-id=&quot;id.binar.fp.secondhand:id/tv_title_page&quot;]</value>
+      <webElementGuid>3758ad9b-1bd4-45d6-b069-2ad99b6da932</webElementGuid>
+   </webElementProperties>
+   <locator>//android.widget.TextView[@resource-id=&quot;id.binar.fp.secondhand:id/tv_title_page&quot;]</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</MobileElementEntity>
