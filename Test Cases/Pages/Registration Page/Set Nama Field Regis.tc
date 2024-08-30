@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Set Nama Field Regis</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db77a2dd-648c-495a-adc7-64d2d7b832d5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c0412418-964a-4b59-b847-6e83f1c424d8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c0412418-964a-4b59-b847-6e83f1c424d8</id>
+      <masked>false</masked>
+      <name>nameFieldRegis</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>backButton</name>
+   <tag></tag>
+   <elementGuidId>fcb250d1-97f2-4c44-89ac-29527a68aa5a</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.ImageView[@resource-id=&quot;id.binar.fp.secondhand:id/btn_back&quot;]</value>
+      <webElementGuid>dc20cfdb-67a7-43b3-9bae-f203f9aa2a51</webElementGuid>
+   </webElementProperties>
+   <locator>//android.widget.ImageView[@resource-id=&quot;id.binar.fp.secondhand:id/btn_back&quot;]</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</MobileElementEntity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>verifyValidasiLogin</name>
+   <tag></tag>
+   <elementGuidId>a0ea7481-f5fa-4b00-9335-44e907aa8ab9</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.TextView[@resource-id=&quot;id.binar.fp.secondhand:id/tv_auth_title&quot;]</value>
+      <webElementGuid>61010687-3e21-4ec4-a627-bddc26c17057</webElementGuid>
+   </webElementProperties>
+   <locator>//android.widget.TextView[@resource-id=&quot;id.binar.fp.secondhand:id/tv_auth_title&quot;]</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</MobileElementEntity>

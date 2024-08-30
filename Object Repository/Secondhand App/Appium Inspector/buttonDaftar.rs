@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>buttonDaftar</name>
+   <tag></tag>
+   <elementGuidId>32be8f83-5baf-4d46-88f4-817ec2319927</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.TextView[@resource-id=&quot;id.binar.fp.secondhand:id/tv_register&quot;]</value>
+      <webElementGuid>82e1a092-93a6-4b89-9901-8884ed6dc457</webElementGuid>
+   </webElementProperties>
+   <locator>//android.widget.TextView[@resource-id=&quot;id.binar.fp.secondhand:id/tv_register&quot;]</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</MobileElementEntity>

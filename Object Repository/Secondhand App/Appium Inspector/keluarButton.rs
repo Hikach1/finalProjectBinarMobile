@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>keluarButton</name>
+   <tag></tag>
+   <elementGuidId>99e3089d-5ff7-4b46-92cc-eca7de9b9915</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.ImageView[@resource-id=&quot;id.binar.fp.secondhand:id/iv_logout&quot;]</value>
+      <webElementGuid>5e76609c-c135-4b0b-b551-6edcdba29145</webElementGuid>
+   </webElementProperties>
+   <locator>//android.widget.ImageView[@resource-id=&quot;id.binar.fp.secondhand:id/iv_logout&quot;]</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</MobileElementEntity>

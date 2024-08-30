@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Set Nomor HP Field Regis</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>10cb1a46-b169-4666-9baa-02cef3af86b4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f7b272d4-530f-4ac1-849e-3719fc204440</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f7b272d4-530f-4ac1-849e-3719fc204440</id>
+      <masked>false</masked>
+      <name>nomorHpFieldRegis</name>
+   </variable>
+</TestCaseEntity>

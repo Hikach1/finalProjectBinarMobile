@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Set Email Field Regis</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe6e1f5c-4962-44aa-b91c-96e78cbda559</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>13eaf4d5-cb76-4193-af5b-9795a0ef177a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>13eaf4d5-cb76-4193-af5b-9795a0ef177a</id>
+      <masked>false</masked>
+      <name>emailFieldRegis</name>
+   </variable>
+</TestCaseEntity>

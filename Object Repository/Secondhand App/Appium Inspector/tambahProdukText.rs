@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>tambahProdukText</name>
+   <tag></tag>
+   <elementGuidId>dab714f7-c0b3-43d6-9632-13df9229d9f8</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.TextView[@resource-id=&quot;id.binar.fp.secondhand:id/toolbar_title&quot;]</value>
+      <webElementGuid>e7ddac5e-5eab-4b63-b3e0-db9493e8be2e</webElementGuid>
+   </webElementProperties>
+   <locator>//android.widget.TextView[@resource-id=&quot;id.binar.fp.secondhand:id/toolbar_title&quot;]</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</MobileElementEntity>
