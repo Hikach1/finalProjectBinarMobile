@@ -17,9 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.tap(findTestObject('secondhand-page/Login/password_field'), 0)
+WebUI.callTestCase(findTestCase('Step Definition/Login/User Login - Success_'), [:], FailureHandling.STOP_ON_FAILURE)
 
-Mobile.setText(findTestObject('secondhand-page/Login/password_field'), password, 0)
+WebUI.callTestCase(findTestCase('SecondHand/List Account/Click Pen Profile Button'), [:], FailureHandling.STOP_ON_FAILURE)
 
-Mobile.delay(1, FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('SecondHand/Profile/Verify Content Profile Page'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('SecondHand/Profile/Input Alamat'), [('alamat') : 'Jalan Jakarta'], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('SecondHand/Profile/Click Simpan Button'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('SecondHand/Profile/Success Notification'), [:], FailureHandling.STOP_ON_FAILURE)
 

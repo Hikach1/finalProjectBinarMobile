@@ -17,9 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.tap(findTestObject('secondhand-page/Login/password_field'), 0)
+WebUI.callTestCase(findTestCase('SecondHand/Homepage/Verify Content Homepage Before Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-Mobile.setText(findTestObject('secondhand-page/Login/password_field'), password, 0)
+WebUI.callTestCase(findTestCase('SecondHand/Login/Click Icon Profile'), [:], FailureHandling.STOP_ON_FAILURE)
 
-Mobile.delay(1, FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('SecondHand/Login/Click Masuk Login'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('SecondHand/Login/Verify Content Login Page'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('SecondHand/Login/Input Email'), [('email') : 'hikachisell@gmail.com'], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('SecondHand/Login/Input Password'), [('password') : 'hikachi123'], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('SecondHand/Login/Click Masuk'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('SecondHand/Homepage/Verify Content Homepage After Login Direct'), [:], FailureHandling.STOP_ON_FAILURE)
 

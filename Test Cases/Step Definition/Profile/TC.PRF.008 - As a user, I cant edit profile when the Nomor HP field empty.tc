@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.PRF.008 - As a user, I cant edit profile when the Nomor HP field empty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>710a393c-6605-4414-97ed-0204b53fb0dd</testCaseGuid>
+</TestCaseEntity>
