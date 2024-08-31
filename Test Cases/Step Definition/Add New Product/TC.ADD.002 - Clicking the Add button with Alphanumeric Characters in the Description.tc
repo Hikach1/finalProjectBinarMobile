@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.ADD.002 - Clicking the Add button with Alphanumeric Characters in the Description</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ca14a078-5668-4b1f-b13e-a16ab59ba62a</testCaseGuid>
+</TestCaseEntity>

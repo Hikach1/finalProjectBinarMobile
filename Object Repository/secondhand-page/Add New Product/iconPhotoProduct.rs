@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iconPhotoProduct</name>
+   <tag></tag>
+   <elementGuidId>942170d9-189b-4124-a288-6115fb6a9f8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.ImageView[@resource-id=&quot;id.binar.fp.secondhand:id/iv_product_image&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.ImageView[@resource-id=&quot;id.binar.fp.secondhand:id/iv_product_image&quot;]</value>
+      <webElementGuid>a0462676-d9f6-4393-bcf1-bd4182b57094</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

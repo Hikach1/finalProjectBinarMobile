@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>penProfile_button</name>
+   <tag></tag>
+   <elementGuidId>0a4bf331-8e73-419d-81c3-c678f82cad5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.ImageView[@resource-id=&quot;id.binar.fp.secondhand:id/iv_edit&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.ImageView[@resource-id=&quot;id.binar.fp.secondhand:id/iv_edit&quot;]</value>
+      <webElementGuid>44b79331-78b8-4dc1-bef9-65748a66259f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

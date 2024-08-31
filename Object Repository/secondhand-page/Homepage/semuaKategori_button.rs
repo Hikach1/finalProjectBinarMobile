@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>semuaKategori_button</name>
+   <tag></tag>
+   <elementGuidId>afdbc23f-4697-4fbe-b734-495698bbe01e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//androidx.cardview.widget.CardView[@resource-id=&quot;id.binar.fp.secondhand:id/cv_category&quot;])[1]/android.view.ViewGroup</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//androidx.cardview.widget.CardView[@resource-id=&quot;id.binar.fp.secondhand:id/cv_category&quot;])[1]/android.view.ViewGroup</value>
+      <webElementGuid>9c6d218d-72cb-4c1b-94bf-82751d2769a1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

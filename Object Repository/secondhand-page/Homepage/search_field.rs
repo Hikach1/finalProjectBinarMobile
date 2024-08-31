@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>search_field</name>
+   <tag></tag>
+   <elementGuidId>fe1c90fe-94ea-4a81-b839-515d43fa73d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.LinearLayout[@resource-id=&quot;id.binar.fp.secondhand:id/tl_search&quot;]/android.widget.FrameLayout</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.LinearLayout[@resource-id=&quot;id.binar.fp.secondhand:id/tl_search&quot;]/android.widget.FrameLayout</value>
+      <webElementGuid>a1c46e5d-5e6d-4103-b891-c52958fe76d5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

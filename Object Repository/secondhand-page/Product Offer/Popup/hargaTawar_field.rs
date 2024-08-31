@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>hargaTawar_field</name>
+   <tag></tag>
+   <elementGuidId>81bc83d7-0b24-454a-a2ce-088c951b9e8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.LinearLayout[@resource-id=&quot;id.binar.fp.secondhand:id/etl_product_bid_price&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.LinearLayout[@resource-id=&quot;id.binar.fp.secondhand:id/etl_product_bid_price&quot;]</value>
+      <webElementGuid>394df559-d6ea-4713-9be8-daee6364ec8f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -21,31 +21,53 @@ import com.kms.katalon.core.annotation.AfterTestCase
 import com.kms.katalon.core.annotation.AfterTestSuite
 import com.kms.katalon.core.context.TestCaseContext
 import com.kms.katalon.core.context.TestSuiteContext
+import com.kms.katalon.core.cucumber.keyword.internal.CucumberGlueGenerator
 
 import com.kms.katalon.core.util.KeywordUtil
 
 class Hook {
+	@BeforeTestCase
+	def beforeTestCases(TestCaseContext context) {
+	CucumberGlueGenerator.addDefaultPackages();
+	}
 	
-//	def startApp() {
-//		Mobile.startApplication('apk/BinarMobile.apk', true);
-//		//WebUI.maximizeWindow();
-//		//WebUI.navigateToUrl(GlobalVariable.sauceDemo);
-//	}
-//	
-//	def closeApp() {
-//		Mobile.closeApplication();
-//	}
+	
+	
+	def startApplication() {
+		Mobile.startApplication('Apk/secondhand.apk', true)
+	}
+		
+	def closeApplication() {
+		Mobile.closeApplication()
+	}
+	
+	
 	
 	@BeforeTestCase
 	def beforeTestCase(TestCaseContext testCaseContext) {
 		KeywordUtil.logInfo('Test Case: ' + testCaseContext.getTestCaseId())
-		this.startApp()
+		this.startApplication()
 	}
-	
+
 	@AfterTestCase
 	def afterTestCase(TestCaseContext testCaseContext) {
 		KeywordUtil.logInfo('Test Case: ' + testCaseContext.getTestCaseId())
-		this.closeApp()
+		this.closeApplication()
 	}
+	
+
+	
+//	@BeforeTestSuite
+//	def beforeTestSuite(TestSuiteContext testSuiteContext) {
+//		//KeywordUtil.logInfo('Test Suite: ' + testSuiteContext.getTestSuiteId())
+//		this.startApplication()
+//	}
+//	
+//	@AfterTestSuite
+//	def afterTestSuite(TestSuiteContext testSuiteContext) {
+//		//KeywordUtil.logInfo('Test Suite: ' + testSuiteContext.getTestSuiteId())
+//		this.closeApplication()
+//	}
+	
 	
 }

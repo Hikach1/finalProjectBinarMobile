@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.PRF.003 - As a user, I can edit profile on Nama field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3ff69620-9a7e-41e5-9b7f-6a9fc6626262</testCaseGuid>
+</TestCaseEntity>

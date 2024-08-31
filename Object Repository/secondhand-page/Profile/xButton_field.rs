@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>xButton_field</name>
+   <tag></tag>
+   <elementGuidId>111f94d9-9255-42f8-83ad-c309d49a7519</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.LinearLayout[@resource-id=&quot;id.binar.fp.secondhand:id/text_layout&quot;]/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.LinearLayout[@resource-id=&quot;id.binar.fp.secondhand:id/text_layout&quot;]/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout</value>
+      <webElementGuid>e700a2be-cde9-4fbe-b47a-24a2620b4961</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

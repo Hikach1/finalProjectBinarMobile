@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iconBeranda_button</name>
+   <tag></tag>
+   <elementGuidId>2fe9a93f-4914-41e3-8f66-632d237c0dce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//android.widget.FrameLayout[@resource-id=&quot;id.binar.fp.secondhand:id/navigation_bar_item_icon_container&quot;])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//android.widget.FrameLayout[@resource-id=&quot;id.binar.fp.secondhand:id/navigation_bar_item_icon_container&quot;])[1]</value>
+      <webElementGuid>d29b8b73-6be9-4ba5-a736-b4863f70481a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete Input Harga Produk</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>202166ba-8e8d-4be8-96ce-0ef2b0c65ed5</testCaseGuid>
+</TestCaseEntity>
