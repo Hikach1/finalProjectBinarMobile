@@ -45,31 +45,29 @@ import cucumber.api.java.en.When
 
 
 class regisApp {
-	
 
-//	def startApp() {
-//		Mobile.startApplication('apk/BinarMobile.apk', true);
-//		//WebUI.maximizeWindow();
-//		//WebUI.navigateToUrl(GlobalVariable.sauceDemo);
-//	}
-//	
-//	def closeApp() {
-//		Mobile.closeApplication();
-//	}
 
-	
+	//	def startApp() {
+	//		Mobile.startApplication('apk/BinarMobile.apk', true);
+	//		//WebUI.maximizeWindow();
+	//		//WebUI.navigateToUrl(GlobalVariable.sauceDemo);
+	//	}
+	//
+	//	def closeApp() {
+	//		Mobile.closeApplication();
+	//	}
+
+
 	@Given("User successfully uses the application on the device")
 	public void user_successfully_uses_the_application_on_the_device() {
 
 		Mobile.startApplication('apk/BinarMobile.apk', true);
 		//WebUI.maximizeWindow();
 		//WebUI.navigateToUrl(GlobalVariable.sauceDemo);
-		
 	}
 
 	@When("Open the app")
 	public void open_the_app() {
-		
 	}
 
 	@And("Tap Account button")

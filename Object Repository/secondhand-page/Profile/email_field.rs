@@ -3,7 +3,7 @@
    <description></description>
    <name>email_field</name>
    <tag></tag>
-   <elementGuidId>da06bc24-c9b7-4e0f-be04-fff22c5e1629</elementGuidId>
+   <elementGuidId>9112812f-7ba6-43a1-947d-282b863a9bcb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>(//android.widget.ImageView[@resource-id=&quot;id.binar.fp.secondhand:id/shapeableImageView&quot;])[5]</value>
-      <webElementGuid>2d75bf8c-560d-4017-8f89-24c9f339da41</webElementGuid>
+      <webElementGuid>a7bd55c7-23c2-4f83-87c8-76501c8d794a</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

@@ -3,7 +3,7 @@
    <description></description>
    <name>masukDuluYuk_text</name>
    <tag></tag>
-   <elementGuidId>225078be-a3e8-4fa6-bd9a-6d98aae024f5</elementGuidId>
+   <elementGuidId>5609dcaf-ceec-4498-9487-b718d8663760</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//android.widget.TextView[@resource-id=&quot;id.binar.fp.secondhand:id/tv_auth_title&quot;]</value>
-      <webElementGuid>f578926b-0e8c-4cc1-8822-9a50a3b4170c</webElementGuid>
+      <webElementGuid>10377489-4d78-4fbf-bd99-8178fa0965ab</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

@@ -3,7 +3,7 @@
    <description></description>
    <name>searchBar_field</name>
    <tag></tag>
-   <elementGuidId>958a4a75-dbe4-4fbc-aacb-e766da57fdd8</elementGuidId>
+   <elementGuidId>4a14cda3-7dab-43f1-8309-dab686e04b3d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>(//android.widget.EditText[@resource-id=&quot;id.binar.fp.secondhand:id/et_search&quot;])[2]</value>
-      <webElementGuid>18cdfa5b-1dd6-47d8-9ac9-9f721ebe15a6</webElementGuid>
+      <webElementGuid>9997b800-f0cc-4180-8fbd-ece5b0ee1a63</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

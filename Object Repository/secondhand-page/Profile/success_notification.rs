@@ -3,7 +3,7 @@
    <description></description>
    <name>success_notification</name>
    <tag></tag>
-   <elementGuidId>51c2c22b-b244-40d2-be34-4559784b58c8</elementGuidId>
+   <elementGuidId>261a652b-1969-457c-b8bc-2730694fee45</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//android.widget.TextView[@resource-id=&quot;id.binar.fp.secondhand:id/tv_message&quot;]</value>
-      <webElementGuid>ea4adf7d-8f64-4975-9c06-db87aeba1ded</webElementGuid>
+      <webElementGuid>6c9ab9d8-14c4-4797-b188-8503a04a3e51</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

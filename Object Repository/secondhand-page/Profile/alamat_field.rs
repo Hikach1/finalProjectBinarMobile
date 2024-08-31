@@ -3,7 +3,7 @@
    <description></description>
    <name>alamat_field</name>
    <tag></tag>
-   <elementGuidId>1bf32bdf-fe8b-4257-901b-a1fa7ffc5ab8</elementGuidId>
+   <elementGuidId>3a1506a6-d851-4ba9-96f2-01743f4d8577</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>(//android.widget.ImageView[@resource-id=&quot;id.binar.fp.secondhand:id/shapeableImageView&quot;])[4]</value>
-      <webElementGuid>e46af1cc-9145-4f71-8796-2ee71fc67fde</webElementGuid>
+      <webElementGuid>9d9c51d7-05b6-4452-940f-cfdc4dcf22e8</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

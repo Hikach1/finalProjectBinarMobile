@@ -3,7 +3,7 @@
    <description></description>
    <name>terbitkan_button</name>
    <tag></tag>
-   <elementGuidId>d96949d7-94dd-4ef6-b8ff-1e206a85d11c</elementGuidId>
+   <elementGuidId>528e359d-2430-42a2-aa45-88eb43497075</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//android.widget.Button[@resource-id=&quot;id.binar.fp.secondhand:id/btn_publish&quot;]</value>
-      <webElementGuid>5ffe246c-0b08-425c-a2c0-a5adc38fec25</webElementGuid>
+      <webElementGuid>bd327c06-b527-4c4c-87c1-765abd4642b4</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

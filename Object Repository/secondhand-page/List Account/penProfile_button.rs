@@ -3,7 +3,7 @@
    <description></description>
    <name>penProfile_button</name>
    <tag></tag>
-   <elementGuidId>0a4bf331-8e73-419d-81c3-c678f82cad5a</elementGuidId>
+   <elementGuidId>b49c081c-f2a9-4df6-8f68-3ae7fd7bc83c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//android.widget.ImageView[@resource-id=&quot;id.binar.fp.secondhand:id/iv_edit&quot;]</value>
-      <webElementGuid>44b79331-78b8-4dc1-bef9-65748a66259f</webElementGuid>
+      <webElementGuid>e7c8399f-d46e-4a80-8956-a05f9d933866</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

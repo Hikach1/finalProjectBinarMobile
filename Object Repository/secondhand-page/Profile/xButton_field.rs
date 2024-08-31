@@ -3,7 +3,7 @@
    <description></description>
    <name>xButton_field</name>
    <tag></tag>
-   <elementGuidId>111f94d9-9255-42f8-83ad-c309d49a7519</elementGuidId>
+   <elementGuidId>2ae0771d-f8c8-45b6-8e09-352b034506be</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//android.widget.LinearLayout[@resource-id=&quot;id.binar.fp.secondhand:id/text_layout&quot;]/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout</value>
-      <webElementGuid>e700a2be-cde9-4fbe-b47a-24a2620b4961</webElementGuid>
+      <webElementGuid>7b889700-3049-40fc-b298-c2aceb39db4a</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

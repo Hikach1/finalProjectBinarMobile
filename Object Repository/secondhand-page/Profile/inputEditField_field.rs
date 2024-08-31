@@ -3,7 +3,7 @@
    <description></description>
    <name>inputEditField_field</name>
    <tag></tag>
-   <elementGuidId>4fe16104-ad9f-4724-bd23-60536e0b57e8</elementGuidId>
+   <elementGuidId>e1ad50bd-7a82-4337-8ca1-d870fab0caaf</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//android.widget.EditText[@resource-id=&quot;id.binar.fp.secondhand:id/edit_text&quot;]</value>
-      <webElementGuid>231e8b9a-2e02-4c92-acd6-18b5c2e2a2ed</webElementGuid>
+      <webElementGuid>ef859a56-94d3-477e-b9a6-0c40324ea0e4</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

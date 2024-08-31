@@ -3,7 +3,7 @@
    <description></description>
    <name>hargaProduk_field</name>
    <tag></tag>
-   <elementGuidId>6f427908-c095-43cd-ac92-5126f7542077</elementGuidId>
+   <elementGuidId>ec2664a1-bdf9-4f59-b5e0-346ddff12cc4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//android.widget.EditText[@resource-id=&quot;id.binar.fp.secondhand:id/et_product_price&quot;]</value>
-      <webElementGuid>a20d943e-253a-4b41-a9c6-c8bc92d1ed56</webElementGuid>
+      <webElementGuid>112f54cf-c14c-47bd-922a-641215e52300</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

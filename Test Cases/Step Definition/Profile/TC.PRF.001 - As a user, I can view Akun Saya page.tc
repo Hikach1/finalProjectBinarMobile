@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC.PRF.001 - As a user, I can view Akun Saya page</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>8004f70e-8879-463c-b206-a487dd6a9d24</testCaseGuid>
-</TestCaseEntity>

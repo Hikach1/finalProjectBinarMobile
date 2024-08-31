@@ -3,7 +3,7 @@
    <description></description>
    <name>kategori_select</name>
    <tag></tag>
-   <elementGuidId>a24eea70-8193-4629-8b35-5312fb53232a</elementGuidId>
+   <elementGuidId>0e2659d4-a3a4-4e13-9498-a85bf361953a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//android.widget.Spinner[@resource-id=&quot;id.binar.fp.secondhand:id/et_product_category&quot;]</value>
-      <webElementGuid>ed3258e9-0420-45cd-994c-14a93e6472a0</webElementGuid>
+      <webElementGuid>015f4fdd-9056-497c-8082-13d761e5e215</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

@@ -94,4 +94,44 @@ public class Profile {
 	public void user_input_photo_profile() {
 		WebUI.callTestCase(findTestCase('SecondHand/Profile/Input Photo Profile'), [:], FailureHandling.STOP_ON_FAILURE)
 	}
+
+	@When("User input nohp")
+	public void user_input_nohp() {
+		WebUI.callTestCase(findTestCase('SecondHand/Profile/Input NoHp'), [('noHp') : '08123456789'], FailureHandling.STOP_ON_FAILURE)
+	}
+
+	@When("User input city")
+	public void user_input_city() {
+		WebUI.callTestCase(findTestCase('SecondHand/Profile/Input Kota'), [('kota') : 'Jakarta'], FailureHandling.STOP_ON_FAILURE)
+	}
+
+	@When("User input address")
+	public void user_input_address() {
+		WebUI.callTestCase(findTestCase('SecondHand/Profile/Input Alamat'), [('alamat') : 'Jalan Jakarta'], FailureHandling.STOP_ON_FAILURE)
+	}
+
+	@Then("User failed to save")
+	public void user_failed_to_save() {
+		WebUI.callTestCase(findTestCase('SecondHand/Profile/Verify Content Profile Popup Page'), [:], FailureHandling.STOP_ON_FAILURE)
+	}
+
+	@When("User delete nohp")
+	public void user_delete_nohp() {
+		WebUI.callTestCase(findTestCase('SecondHand/Profile/Empty NoHp'), [:], FailureHandling.STOP_ON_FAILURE)
+	}
+
+	@When("User delete city")
+	public void user_delete_city() {
+		WebUI.callTestCase(findTestCase('SecondHand/Profile/Empty Kota'), [:], FailureHandling.STOP_ON_FAILURE)
+	}
+
+	@When("User delete address")
+	public void user_delete_address() {
+		WebUI.callTestCase(findTestCase('SecondHand/Profile/Empty Alamat'), [:], FailureHandling.STOP_ON_FAILURE)
+	}
+
+	@When("User delete name")
+	public void user_delete_name() {
+		WebUI.callTestCase(findTestCase('SecondHand/Profile/Empty Nama'), [:], FailureHandling.STOP_ON_FAILURE)
+	}
 }

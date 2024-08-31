@@ -3,7 +3,7 @@
    <description></description>
    <name>iconPhotoCapture_button</name>
    <tag></tag>
-   <elementGuidId>401113d6-58ab-4e25-bbae-4cae4d300cdf</elementGuidId>
+   <elementGuidId>8f1dbce8-9e83-4ca7-83ec-91bf16ebde11</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//android.widget.FrameLayout[@resource-id=&quot;com.android.camera2:id/bottombar_capture&quot;]</value>
-      <webElementGuid>49ccb5c5-6f2c-46e1-be85-35abb6a7ffb1</webElementGuid>
+      <webElementGuid>b5b20e67-70cb-42b7-9862-65e5c2f42430</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

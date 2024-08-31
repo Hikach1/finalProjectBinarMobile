@@ -3,7 +3,7 @@
    <description></description>
    <name>iconProfile_button</name>
    <tag></tag>
-   <elementGuidId>15862970-d2b1-4204-9084-d7526f7e0e65</elementGuidId>
+   <elementGuidId>3ae88cd7-09e9-48cd-b58c-b238c02f9f06</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//android.widget.TextView[@resource-id=&quot;id.binar.fp.secondhand:id/navigation_bar_item_small_label_view&quot; and @text=&quot;Akun&quot;]</value>
-      <webElementGuid>b9cc6c4f-0137-4cec-b451-bfb11ce2398f</webElementGuid>
+      <webElementGuid>4664bab0-9d65-4e62-b0d2-60359020c7b6</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

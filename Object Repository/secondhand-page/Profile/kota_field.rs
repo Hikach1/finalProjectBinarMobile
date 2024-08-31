@@ -3,7 +3,7 @@
    <description></description>
    <name>kota_field</name>
    <tag></tag>
-   <elementGuidId>6ffea13e-54b3-437a-9ecc-31fb5c801370</elementGuidId>
+   <elementGuidId>768633a1-4b98-4a24-a41c-b50a5e1e299e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>(//android.widget.ImageView[@resource-id=&quot;id.binar.fp.secondhand:id/shapeableImageView&quot;])[3]</value>
-      <webElementGuid>2f006a0c-80a8-4717-9d26-20b62bca4e0a</webElementGuid>
+      <webElementGuid>b32c28fe-3668-4504-8cb8-9d9e318dc514</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

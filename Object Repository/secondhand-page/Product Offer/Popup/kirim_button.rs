@@ -3,7 +3,7 @@
    <description></description>
    <name>kirim_button</name>
    <tag></tag>
-   <elementGuidId>94076674-4538-49ac-99a8-77b8019b8c43</elementGuidId>
+   <elementGuidId>f4c448cc-aff5-48a4-818e-b43dad74184d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//android.widget.Button[@resource-id=&quot;id.binar.fp.secondhand:id/btn_bid&quot;]</value>
-      <webElementGuid>0140dc55-4858-40a3-bb4d-b6a188d73f39</webElementGuid>
+      <webElementGuid>f7472f72-516c-4075-b77c-be5caf40f733</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

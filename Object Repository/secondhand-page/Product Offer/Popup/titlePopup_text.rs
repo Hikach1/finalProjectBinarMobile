@@ -3,7 +3,7 @@
    <description></description>
    <name>titlePopup_text</name>
    <tag></tag>
-   <elementGuidId>da886c98-f77b-4295-818b-22ed9da09ab1</elementGuidId>
+   <elementGuidId>13f0be1c-3315-4e10-b014-74df0842d6bb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//android.widget.TextView[@resource-id=&quot;id.binar.fp.secondhand:id/tv_bottom_sheet_title&quot;]</value>
-      <webElementGuid>d2b21ed1-f7c1-4b85-b2fc-635d7c397ea5</webElementGuid>
+      <webElementGuid>39f4a56d-9fa4-4063-91a0-82e3c29bac93</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

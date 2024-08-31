@@ -1,5 +1,5 @@
 
-@Application @AddNewProduct @Smoke
+@AddNewProduct
 Feature: Add New Product
   As a user, I can edit and add new product in SecondHand
 
@@ -124,7 +124,7 @@ Feature: Add New Product
   And User input product address
   And User input product description
   And User click terbitkan button
-  Then User add new product was successful
+  Then User add new product was unsuccessful
   And User close application
   
   
