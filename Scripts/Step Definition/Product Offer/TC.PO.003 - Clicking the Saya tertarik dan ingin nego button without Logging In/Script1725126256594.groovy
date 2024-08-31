@@ -17,9 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.tap(findTestObject('secondhand-page/Login/password_field'), 0)
+WebUI.callTestCase(findTestCase('SecondHand/Homepage/Click Beranda'), [:], FailureHandling.STOP_ON_FAILURE)
 
-Mobile.setText(findTestObject('secondhand-page/Login/password_field'), password, 0)
+WebUI.callTestCase(findTestCase('SecondHand/Product Offer/Input Sapi Search Bar'), [('namaProdukSearch') : 'Sapi_1'], FailureHandling.STOP_ON_FAILURE)
 
-Mobile.delay(1, FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('SecondHand/Product Offer/Click Result Sapi Search Bar'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('SecondHand/Product Offer/Click Nego'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('SecondHand/Login/Verify Content Login Page'), [:], FailureHandling.STOP_ON_FAILURE)
 

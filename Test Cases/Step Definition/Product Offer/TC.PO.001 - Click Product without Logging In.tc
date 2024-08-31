@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.PO.001 - Click Product without Logging In</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2461c4c4-53b2-4a25-abf8-7c8e396314b4</testCaseGuid>
+</TestCaseEntity>

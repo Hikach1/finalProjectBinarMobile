@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.PO.005 - Sending a Negotiation Request via the Saya tertarik dan ingin nego button as a Logged in user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e575b6a2-6595-4a38-b33f-c5d0d11b01e7</testCaseGuid>
+</TestCaseEntity>

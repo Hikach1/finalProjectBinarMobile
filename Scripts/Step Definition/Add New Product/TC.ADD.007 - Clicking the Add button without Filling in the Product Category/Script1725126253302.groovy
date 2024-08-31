@@ -17,9 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.tap(findTestObject('secondhand-page/Login/password_field'), 0)
+WebUI.callTestCase(findTestCase('Step Definition/Login/User Login - Success_'), [:], FailureHandling.STOP_ON_FAILURE)
 
-Mobile.setText(findTestObject('secondhand-page/Login/password_field'), password, 0)
+WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Click Plus Button'), [:], FailureHandling.STOP_ON_FAILURE)
 
-Mobile.delay(1, FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Input Nama Produk'), [('namaProduk') : 'bla_'], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Delete Input Harga Produk'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Input Lokasi'), [('lokasi') : 'Jakarta'], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Input Deskripsi'), [('deskripsi') : 'blablaja'], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Input Photo Produk'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Click Terbitkan Button'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Verify Content Add New Product Page'), [:], FailureHandling.STOP_ON_FAILURE)
 

@@ -44,7 +44,7 @@ import cucumber.api.junit.Cucumber;
 @CucumberOptions(
 features = "Include/features",
 glue = "stepDefinition",
-tags = "@TC.RegMob.001",
+tags = "@AddNewProduct",
 monochrome = true,
 plugin = "html:Reports/Cucumber"
 )

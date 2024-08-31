@@ -17,11 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.delay(2, FailureHandling.STOP_ON_FAILURE)
+Mobile.delay(1, FailureHandling.STOP_ON_FAILURE)
 
 Mobile.tap(findTestObject('secondhand-page/Login/email_field'), 0)
 
 Mobile.setText(findTestObject('secondhand-page/Login/email_field'), email, 0)
 
-Mobile.delay(2, FailureHandling.STOP_ON_FAILURE)
+Mobile.delay(1, FailureHandling.STOP_ON_FAILURE)
 
