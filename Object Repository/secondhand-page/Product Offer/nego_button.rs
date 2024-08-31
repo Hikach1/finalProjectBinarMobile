@@ -3,7 +3,7 @@
    <description></description>
    <name>nego_button</name>
    <tag></tag>
-   <elementGuidId>0ec3d486-aaf7-470a-a8ae-37231c9565d2</elementGuidId>
+   <elementGuidId>f023d864-573e-4929-aa16-f30186bb27f8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//android.widget.Button[@resource-id=&quot;id.binar.fp.secondhand:id/btn_bid&quot;]</value>
-      <webElementGuid>f8b7b7b4-5000-4292-8017-c4d09672cd38</webElementGuid>
+      <webElementGuid>8f7ea457-374c-4c3b-8829-2cb053bc6e6b</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

@@ -3,7 +3,7 @@
    <description></description>
    <name>lokasi_field</name>
    <tag></tag>
-   <elementGuidId>74faac4b-f28b-4eeb-8a24-d58db4619304</elementGuidId>
+   <elementGuidId>79243fdc-0f74-4ded-a70c-dc5c158765df</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//android.widget.EditText[@resource-id=&quot;id.binar.fp.secondhand:id/et_product_location&quot;]</value>
-      <webElementGuid>eef9f4ee-316a-4b6e-85ec-22398d90ed9d</webElementGuid>
+      <webElementGuid>9df6a541-a57e-4c3e-b4fb-ab45f4b2bb8b</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

@@ -3,7 +3,7 @@
    <description></description>
    <name>kategoriHandphone_select</name>
    <tag></tag>
-   <elementGuidId>aeeed6a5-769f-4ef4-b2b6-d68efc9af701</elementGuidId>
+   <elementGuidId>e69e1849-a660-4ad3-aebd-18480a3b9cd7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//android.widget.TextView[@resource-id=&quot;id.binar.fp.secondhand:id/tv_product_description&quot;]</value>
-      <webElementGuid>0f4abbe2-075c-4bd4-89c2-698284c42199</webElementGuid>
+      <webElementGuid>96225644-f57e-43c1-bb83-10840e023a5f</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

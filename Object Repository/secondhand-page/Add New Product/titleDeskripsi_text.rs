@@ -3,7 +3,7 @@
    <description></description>
    <name>titleDeskripsi_text</name>
    <tag></tag>
-   <elementGuidId>7e8fd753-ae1f-43ac-baa3-8344bd0b9b31</elementGuidId>
+   <elementGuidId>fe78d59b-0836-41b2-be25-f57c9f873cb2</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//android.widget.TextView[@resource-id=&quot;id.binar.fp.secondhand:id/tv_product_description&quot;]</value>
-      <webElementGuid>8e4e03ed-d749-4e48-b98f-cdc4a04f6338</webElementGuid>
+      <webElementGuid>a15b9ec9-7407-4efb-ad0e-17be2fc6521d</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

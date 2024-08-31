@@ -3,7 +3,7 @@
    <description></description>
    <name>semuaKategori_button</name>
    <tag></tag>
-   <elementGuidId>afdbc23f-4697-4fbe-b734-495698bbe01e</elementGuidId>
+   <elementGuidId>cc935515-32bd-460c-a01b-553805e6161c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>(//androidx.cardview.widget.CardView[@resource-id=&quot;id.binar.fp.secondhand:id/cv_category&quot;])[1]/android.view.ViewGroup</value>
-      <webElementGuid>9c6d218d-72cb-4c1b-94bf-82751d2769a1</webElementGuid>
+      <webElementGuid>271a4a36-0b23-4cd5-88ea-159d5e635470</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

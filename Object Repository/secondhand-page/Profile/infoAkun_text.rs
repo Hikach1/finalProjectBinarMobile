@@ -3,7 +3,7 @@
    <description></description>
    <name>infoAkun_text</name>
    <tag></tag>
-   <elementGuidId>44ecc32c-eb16-4aca-8f5a-191758303d9a</elementGuidId>
+   <elementGuidId>befa2c81-001d-40c6-a0ca-c5b51d6363b3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>id</name>
       <type>Main</type>
       <value>id.binar.fp.secondhand:id/tv_account_info</value>
-      <webElementGuid>01e0007c-52ba-4283-a3f2-cafb8ede8c23</webElementGuid>
+      <webElementGuid>5e8fa54b-3815-4a12-881c-71cf6400e61a</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

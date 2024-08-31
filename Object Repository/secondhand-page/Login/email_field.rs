@@ -3,7 +3,7 @@
    <description></description>
    <name>email_field</name>
    <tag></tag>
-   <elementGuidId>40be2cf6-a212-49a8-a9d8-51bc3f75772c</elementGuidId>
+   <elementGuidId>3f2fce49-1738-4312-afc8-bdc074fb7afb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//android.widget.EditText[@resource-id=&quot;id.binar.fp.secondhand:id/et_email&quot;]</value>
-      <webElementGuid>ff2e1aab-23f5-471f-834d-18c0efd97a16</webElementGuid>
+      <webElementGuid>f829de8d-03ac-473b-a0ff-5c0161a54e66</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

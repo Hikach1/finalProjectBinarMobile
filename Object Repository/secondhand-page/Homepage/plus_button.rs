@@ -3,7 +3,7 @@
    <description></description>
    <name>plus_button</name>
    <tag></tag>
-   <elementGuidId>475fad52-6c1a-4eaf-b6db-ea5f1b59b6ed</elementGuidId>
+   <elementGuidId>dfe2241e-96f8-4d60-9909-bc75bd7741ac</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//android.widget.ImageButton[@content-desc=&quot;Jual&quot;]</value>
-      <webElementGuid>3c314b25-9ead-4754-a4b7-d54e681c541d</webElementGuid>
+      <webElementGuid>a62d08e6-34a2-4c56-93b1-dd7277d2e40f</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

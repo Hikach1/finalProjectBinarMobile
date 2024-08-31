@@ -3,7 +3,7 @@
    <description></description>
    <name>back_button</name>
    <tag></tag>
-   <elementGuidId>7b213724-da16-4d0e-8a48-5672182e71e8</elementGuidId>
+   <elementGuidId>26f7d8b2-f611-47f9-8ddd-af13db7ce3e7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>id</name>
       <type>Main</type>
       <value>id.binar.fp.secondhand:id/btn_back</value>
-      <webElementGuid>43e68318-3a11-4861-a63c-504da8f5e89a</webElementGuid>
+      <webElementGuid>5a5c6edd-3bfc-4bef-acde-3988aa36c560</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

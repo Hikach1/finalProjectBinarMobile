@@ -3,7 +3,7 @@
    <description></description>
    <name>noHp_field</name>
    <tag></tag>
-   <elementGuidId>64a79289-2dbd-43c9-b2af-1c1121297e3d</elementGuidId>
+   <elementGuidId>01496d19-fc60-4345-8677-a18325fe57a6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>(//android.widget.ImageView[@resource-id=&quot;id.binar.fp.secondhand:id/shapeableImageView&quot;])[2]</value>
-      <webElementGuid>d0b6159b-90e7-42e5-9296-6f59fdacd065</webElementGuid>
+      <webElementGuid>9ed3df44-576e-4085-b13d-da97593fa984</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

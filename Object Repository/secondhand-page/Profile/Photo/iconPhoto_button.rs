@@ -3,7 +3,7 @@
    <description></description>
    <name>iconPhoto_button</name>
    <tag></tag>
-   <elementGuidId>e80a126e-445e-4061-b17d-7c7038ea116f</elementGuidId>
+   <elementGuidId>caf10f0d-b801-45b1-8aef-0dea1c912d1b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//android.widget.Button[@resource-id=&quot;id.binar.fp.secondhand:id/btn_camera&quot;]</value>
-      <webElementGuid>f54d1e42-5e61-4eed-a186-043766d39d60</webElementGuid>
+      <webElementGuid>b4e10c2d-f0dd-43b5-8f25-3c9160a3289c</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

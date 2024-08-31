@@ -3,7 +3,7 @@
    <description></description>
    <name>hargaTawar_field</name>
    <tag></tag>
-   <elementGuidId>81bc83d7-0b24-454a-a2ce-088c951b9e8a</elementGuidId>
+   <elementGuidId>7fa68dc8-de30-45fc-815b-bfc0be5afb3d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//android.widget.LinearLayout[@resource-id=&quot;id.binar.fp.secondhand:id/etl_product_bid_price&quot;]</value>
-      <webElementGuid>394df559-d6ea-4713-9be8-daee6364ec8f</webElementGuid>
+      <webElementGuid>8aeb94ed-c4a9-4a98-a4b3-d3696faed8ca</webElementGuid>
    </webElementProperties>
 </WebElementEntity>
