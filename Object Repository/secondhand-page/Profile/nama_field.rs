@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>nama_field</name>
+   <tag></tag>
+   <elementGuidId>86456b88-eada-48b5-bcd9-db0cef9dc2c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//android.widget.ImageView[@resource-id=&quot;id.binar.fp.secondhand:id/shapeableImageView&quot;])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//android.widget.ImageView[@resource-id=&quot;id.binar.fp.secondhand:id/shapeableImageView&quot;])[1]</value>
+      <webElementGuid>8df7d0d1-7e0a-437d-928a-887de73b8880</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

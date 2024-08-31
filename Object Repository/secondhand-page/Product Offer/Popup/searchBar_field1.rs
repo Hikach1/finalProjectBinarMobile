@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>searchBar_field1</name>
+   <tag></tag>
+   <elementGuidId>071b6421-62aa-4f97-9f7e-f0f0614f53eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.EditText[@resource-id=&quot;id.binar.fp.secondhand:id/et_search&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.EditText[@resource-id=&quot;id.binar.fp.secondhand:id/et_search&quot;]</value>
+      <webElementGuid>bb866899-8e16-404a-96c2-bb3a1f379793</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

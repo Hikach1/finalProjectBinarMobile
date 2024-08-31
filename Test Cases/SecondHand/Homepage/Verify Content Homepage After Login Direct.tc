@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Content Homepage After Login Direct</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6728f04b-ff43-4c48-b2ba-e219f86a2538</testCaseGuid>
+</TestCaseEntity>

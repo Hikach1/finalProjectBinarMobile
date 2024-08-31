@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>noHp_field</name>
+   <tag></tag>
+   <elementGuidId>64a79289-2dbd-43c9-b2af-1c1121297e3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//android.widget.ImageView[@resource-id=&quot;id.binar.fp.secondhand:id/shapeableImageView&quot;])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//android.widget.ImageView[@resource-id=&quot;id.binar.fp.secondhand:id/shapeableImageView&quot;])[2]</value>
+      <webElementGuid>d0b6159b-90e7-42e5-9296-6f59fdacd065</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

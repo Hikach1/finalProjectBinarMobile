@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>titleKategori_text</name>
+   <tag></tag>
+   <elementGuidId>7cfeb6fb-ca9c-4bef-822a-ee83670eb83a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.TextView[@resource-id=&quot;id.binar.fp.secondhand:id/tv_title_category&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.TextView[@resource-id=&quot;id.binar.fp.secondhand:id/tv_title_category&quot;]</value>
+      <webElementGuid>86f4d2c0-1253-4e01-b88e-0c7b0a719c2b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

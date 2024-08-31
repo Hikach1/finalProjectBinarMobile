@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>simpan_button</name>
+   <tag></tag>
+   <elementGuidId>17734fa8-d922-492b-983d-ce1e0d729311</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.Button[@resource-id=&quot;id.binar.fp.secondhand:id/btn_save&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.Button[@resource-id=&quot;id.binar.fp.secondhand:id/btn_save&quot;]</value>
+      <webElementGuid>398e24a7-de3f-42ed-a940-d0937b4ee031</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

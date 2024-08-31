@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>deskripsi_field</name>
+   <tag></tag>
+   <elementGuidId>cf5a7f86-90ba-49dc-96a0-6ee2830126b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.EditText[@resource-id=&quot;id.binar.fp.secondhand:id/et_product_description&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.EditText[@resource-id=&quot;id.binar.fp.secondhand:id/et_product_description&quot;]</value>
+      <webElementGuid>e7166bbd-04d5-41e3-bf7f-9f362fba7255</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

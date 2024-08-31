@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>email_field</name>
+   <tag></tag>
+   <elementGuidId>da06bc24-c9b7-4e0f-be04-fff22c5e1629</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//android.widget.ImageView[@resource-id=&quot;id.binar.fp.secondhand:id/shapeableImageView&quot;])[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//android.widget.ImageView[@resource-id=&quot;id.binar.fp.secondhand:id/shapeableImageView&quot;])[5]</value>
+      <webElementGuid>2d75bf8c-560d-4017-8f89-24c9f339da41</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

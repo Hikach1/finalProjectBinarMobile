@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>masukDuluYuk_text</name>
+   <tag></tag>
+   <elementGuidId>225078be-a3e8-4fa6-bd9a-6d98aae024f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.TextView[@resource-id=&quot;id.binar.fp.secondhand:id/tv_auth_title&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.TextView[@resource-id=&quot;id.binar.fp.secondhand:id/tv_auth_title&quot;]</value>
+      <webElementGuid>f578926b-0e8c-4cc1-8822-9a50a3b4170c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

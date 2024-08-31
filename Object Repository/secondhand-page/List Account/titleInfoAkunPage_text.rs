@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>titleInfoAkunPage_text</name>
+   <tag></tag>
+   <elementGuidId>7cadf1a9-2ef2-4375-bf98-d063c0403679</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.TextView[@resource-id=&quot;id.binar.fp.secondhand:id/tv_title_page&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.TextView[@resource-id=&quot;id.binar.fp.secondhand:id/tv_title_page&quot;]</value>
+      <webElementGuid>74140572-c19a-42e1-92b3-e37d8e749948</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

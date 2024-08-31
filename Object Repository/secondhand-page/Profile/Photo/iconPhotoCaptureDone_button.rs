@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iconPhotoCaptureDone_button</name>
+   <tag></tag>
+   <elementGuidId>d9ef690f-dab7-4dbe-8e30-729d2de3f93d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.ImageButton[@content-desc=&quot;Done&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.ImageButton[@content-desc=&quot;Done&quot;]</value>
+      <webElementGuid>34ef761b-db7d-4854-a76e-002d17f0a8a7</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

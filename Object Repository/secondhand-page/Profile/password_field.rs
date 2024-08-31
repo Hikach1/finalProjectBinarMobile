@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>password_field</name>
+   <tag></tag>
+   <elementGuidId>659b620f-9442-4eeb-9fcd-3d2f9ad7562d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//android.widget.ImageView[@resource-id=&quot;id.binar.fp.secondhand:id/shapeableImageView&quot;])[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//android.widget.ImageView[@resource-id=&quot;id.binar.fp.secondhand:id/shapeableImageView&quot;])[6]</value>
+      <webElementGuid>8275e9f1-8bce-4763-b193-fd8d55817aa0</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

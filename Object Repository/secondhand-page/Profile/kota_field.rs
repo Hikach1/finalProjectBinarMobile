@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>kota_field</name>
+   <tag></tag>
+   <elementGuidId>6ffea13e-54b3-437a-9ecc-31fb5c801370</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//android.widget.ImageView[@resource-id=&quot;id.binar.fp.secondhand:id/shapeableImageView&quot;])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//android.widget.ImageView[@resource-id=&quot;id.binar.fp.secondhand:id/shapeableImageView&quot;])[3]</value>
+      <webElementGuid>2f006a0c-80a8-4717-9d26-20b62bca4e0a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iconPhoto_button</name>
+   <tag></tag>
+   <elementGuidId>e80a126e-445e-4061-b17d-7c7038ea116f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.Button[@resource-id=&quot;id.binar.fp.secondhand:id/btn_camera&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.Button[@resource-id=&quot;id.binar.fp.secondhand:id/btn_camera&quot;]</value>
+      <webElementGuid>f54d1e42-5e61-4eed-a186-043766d39d60</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

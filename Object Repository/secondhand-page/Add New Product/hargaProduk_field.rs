@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>hargaProduk_field</name>
+   <tag></tag>
+   <elementGuidId>6f427908-c095-43cd-ac92-5126f7542077</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.EditText[@resource-id=&quot;id.binar.fp.secondhand:id/et_product_price&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.EditText[@resource-id=&quot;id.binar.fp.secondhand:id/et_product_price&quot;]</value>
+      <webElementGuid>a20d943e-253a-4b41-a9c6-c8bc92d1ed56</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete Input Nama Produk</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>800b502c-f5ac-45cb-8032-f2ba28d9b2fb</testCaseGuid>
+</TestCaseEntity>
