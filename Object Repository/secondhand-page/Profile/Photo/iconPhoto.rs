@@ -3,7 +3,7 @@
    <description></description>
    <name>iconPhoto</name>
    <tag></tag>
-   <elementGuidId>bc4383a3-6670-430a-a996-2f9725985fd6</elementGuidId>
+   <elementGuidId>e66e7e7b-a534-4a19-849c-304e98ecdff8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>(//android.widget.ImageView[@resource-id=&quot;id.binar.fp.secondhand:id/iv_profile&quot;])[1]</value>
-      <webElementGuid>42ef4d33-8caf-4fe3-9fd1-48b778540188</webElementGuid>
+      <webElementGuid>1fd18ab9-f6ed-4cfa-8592-822ae990f077</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

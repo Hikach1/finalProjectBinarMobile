@@ -3,7 +3,7 @@
    <description></description>
    <name>back_button</name>
    <tag></tag>
-   <elementGuidId>d63daa86-7e48-4739-9c68-ccfaa0c89128</elementGuidId>
+   <elementGuidId>921182d2-8f00-4c4f-bab0-01d60c2ef88e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>(//android.widget.ImageView[@resource-id=&quot;id.binar.fp.secondhand:id/btn_back&quot;])[1]</value>
-      <webElementGuid>a951e371-38ee-465b-830e-1fd0414694de</webElementGuid>
+      <webElementGuid>d57d0e00-a506-4b62-af71-740c4625e4a1</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

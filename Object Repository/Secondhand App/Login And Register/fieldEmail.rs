@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>fieldEmail</name>
+   <tag></tag>
+   <elementGuidId>e2143680-e63f-4e14-bc5f-57736bb1aa89</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.EditText[@resource-id=&quot;id.binar.fp.secondhand:id/et_email&quot;]</value>
+      <webElementGuid>be4abe93-c7f4-4f9d-a973-ae541e4cc24a</webElementGuid>
+   </webElementProperties>
+   <locator>//android.widget.EditText[@resource-id=&quot;id.binar.fp.secondhand:id/et_email&quot;]</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</MobileElementEntity>

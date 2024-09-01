@@ -3,7 +3,7 @@
    <description></description>
    <name>nama_field</name>
    <tag></tag>
-   <elementGuidId>86456b88-eada-48b5-bcd9-db0cef9dc2c3</elementGuidId>
+   <elementGuidId>d13075ed-5adc-4963-beb0-943491895ea1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>(//android.widget.ImageView[@resource-id=&quot;id.binar.fp.secondhand:id/shapeableImageView&quot;])[1]</value>
-      <webElementGuid>8df7d0d1-7e0a-437d-928a-887de73b8880</webElementGuid>
+      <webElementGuid>b9f7dac0-e687-45cd-8712-8feabf3f92ab</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

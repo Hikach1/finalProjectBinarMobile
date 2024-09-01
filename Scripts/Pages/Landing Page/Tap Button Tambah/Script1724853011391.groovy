@@ -17,5 +17,5 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.tap(findTestObject('Secondhand App/Appium Inspector/tambahButton'), 0)
+Mobile.tap(findTestObject('Secondhand App/Landing Page/buttonTambah'), 0)
 

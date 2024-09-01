@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.PO.003 - Clicking the Saya tertarik dan ingin nego button without Logging In</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0ecc59b5-2e9d-4e11-8910-9963566208c9</testCaseGuid>
+</TestCaseEntity>

@@ -3,7 +3,7 @@
    <description></description>
    <name>iconBeranda_button</name>
    <tag></tag>
-   <elementGuidId>2fe9a93f-4914-41e3-8f66-632d237c0dce</elementGuidId>
+   <elementGuidId>23e75600-e652-4c5e-af12-8900a799289d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>(//android.widget.FrameLayout[@resource-id=&quot;id.binar.fp.secondhand:id/navigation_bar_item_icon_container&quot;])[1]</value>
-      <webElementGuid>d29b8b73-6be9-4ba5-a736-b4863f70481a</webElementGuid>
+      <webElementGuid>135fc4de-1928-474b-be12-4b7a49658743</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

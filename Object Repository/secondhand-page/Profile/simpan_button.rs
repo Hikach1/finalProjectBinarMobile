@@ -3,7 +3,7 @@
    <description></description>
    <name>simpan_button</name>
    <tag></tag>
-   <elementGuidId>17734fa8-d922-492b-983d-ce1e0d729311</elementGuidId>
+   <elementGuidId>ea1fb519-72ab-40b4-a921-11a015594e77</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//android.widget.Button[@resource-id=&quot;id.binar.fp.secondhand:id/btn_save&quot;]</value>
-      <webElementGuid>398e24a7-de3f-42ed-a940-d0937b4ee031</webElementGuid>
+      <webElementGuid>e6f33009-e6d8-4f77-b210-f50904a2b846</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

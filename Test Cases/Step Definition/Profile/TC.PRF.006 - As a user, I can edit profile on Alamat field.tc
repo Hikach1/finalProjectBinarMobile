@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.PRF.006 - As a user, I can edit profile on Alamat field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b62e5467-7744-49a4-9160-638f4006233d</testCaseGuid>
+</TestCaseEntity>

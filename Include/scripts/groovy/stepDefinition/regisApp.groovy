@@ -57,7 +57,6 @@ class regisApp {
 		return sb.toString();
 	}
 
-
 	@Given("User successfully uses the application on the device")
 	public void user_successfully_uses_the_application_on_the_device() {
 
@@ -83,7 +82,7 @@ class regisApp {
 	@And("Tap Daftar button")
 	public void tap_Daftar_button() {
 
-		WebUI.callTestCase(findTestCase('Pages/Login Page/Tap Button Daftar'), [:], FailureHandling.STOP_ON_FAILURE)
+		WebUI.callTestCase(findTestCase('Pages/Login Page/Set Password'), [:], FailureHandling.STOP_ON_FAILURE)
 	}
 
 	@And("Input valid Nama field")

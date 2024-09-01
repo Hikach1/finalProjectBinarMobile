@@ -3,7 +3,7 @@
    <description></description>
    <name>deskripsi_field</name>
    <tag></tag>
-   <elementGuidId>cf5a7f86-90ba-49dc-96a0-6ee2830126b8</elementGuidId>
+   <elementGuidId>09ea60c0-a1a2-41cf-8344-3d8b3fb1cb0a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//android.widget.EditText[@resource-id=&quot;id.binar.fp.secondhand:id/et_product_description&quot;]</value>
-      <webElementGuid>e7166bbd-04d5-41e3-bf7f-9f362fba7255</webElementGuid>
+      <webElementGuid>b14a2244-159f-45aa-b5e2-87ec93313db9</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

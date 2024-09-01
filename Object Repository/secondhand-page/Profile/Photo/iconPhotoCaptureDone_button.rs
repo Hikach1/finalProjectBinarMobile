@@ -3,7 +3,7 @@
    <description></description>
    <name>iconPhotoCaptureDone_button</name>
    <tag></tag>
-   <elementGuidId>d9ef690f-dab7-4dbe-8e30-729d2de3f93d</elementGuidId>
+   <elementGuidId>33339ef2-b0ef-4f17-bacf-4115c3ed6354</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//android.widget.ImageButton[@content-desc=&quot;Done&quot;]</value>
-      <webElementGuid>34ef761b-db7d-4854-a76e-002d17f0a8a7</webElementGuid>
+      <webElementGuid>d486b665-d80e-4def-9738-b7a0bc384772</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

@@ -3,7 +3,7 @@
    <description></description>
    <name>search_field</name>
    <tag></tag>
-   <elementGuidId>fe1c90fe-94ea-4a81-b839-515d43fa73d0</elementGuidId>
+   <elementGuidId>9ba48594-d1f3-4a85-af75-5f03cbd49399</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//android.widget.LinearLayout[@resource-id=&quot;id.binar.fp.secondhand:id/tl_search&quot;]/android.widget.FrameLayout</value>
-      <webElementGuid>a1c46e5d-5e6d-4103-b891-c52958fe76d5</webElementGuid>
+      <webElementGuid>36b84042-8852-4486-a8cf-4f72bad69b5e</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

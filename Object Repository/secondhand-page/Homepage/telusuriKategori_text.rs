@@ -3,7 +3,7 @@
    <description></description>
    <name>telusuriKategori_text</name>
    <tag></tag>
-   <elementGuidId>0f6d3759-186e-4c0b-a1c2-648db0340a24</elementGuidId>
+   <elementGuidId>b84316ef-7767-41bb-99e9-f0624655a0be</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//android.widget.TextView[@resource-id=&quot;id.binar.fp.secondhand:id/tv_category&quot; and @text=&quot;Telusuri Kategori&quot;]</value>
-      <webElementGuid>eab7b580-4503-4691-99ff-77907e522854</webElementGuid>
+      <webElementGuid>b6cf85ce-dfe4-4b26-888a-118343cf6066</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

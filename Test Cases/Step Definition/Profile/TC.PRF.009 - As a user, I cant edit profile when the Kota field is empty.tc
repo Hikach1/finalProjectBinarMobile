@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.PRF.009 - As a user, I cant edit profile when the Kota field is empty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3f63a6e5-78be-42a1-ab40-615c39a0c454</testCaseGuid>
+</TestCaseEntity>

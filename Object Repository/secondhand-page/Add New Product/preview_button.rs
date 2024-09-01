@@ -3,7 +3,7 @@
    <description></description>
    <name>preview_button</name>
    <tag></tag>
-   <elementGuidId>f7f91dfc-2d40-41e8-ad48-1aca434d027f</elementGuidId>
+   <elementGuidId>e16a5794-3e67-434f-ba09-cfcde4aba6c6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>id</name>
       <type>Main</type>
       <value>id.binar.fp.secondhand:id/btn_preview</value>
-      <webElementGuid>f3a92237-fb75-451f-b569-6fbce86c9cce</webElementGuid>
+      <webElementGuid>c5ddfdd6-7f11-4c15-9144-011c97151357</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

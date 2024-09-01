@@ -3,7 +3,7 @@
    <description></description>
    <name>errorMessage</name>
    <tag></tag>
-   <elementGuidId>b61eed6a-9796-4c36-93c1-4ef7fe45e2e1</elementGuidId>
+   <elementGuidId>baf4a056-dba4-4563-a049-92bda025dab3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>id</name>
       <type>Main</type>
       <value>id.binar.fp.secondhand:id/textinput_error</value>
-      <webElementGuid>d4cf16c2-45f2-42a8-b642-a69ffc402b11</webElementGuid>
+      <webElementGuid>8d36d6d4-6065-4f13-9fe1-8b380b2aea9a</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

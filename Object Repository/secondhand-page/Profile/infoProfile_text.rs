@@ -3,7 +3,7 @@
    <description></description>
    <name>infoProfile_text</name>
    <tag></tag>
-   <elementGuidId>f43923ed-3973-4341-8bea-e259e8555d63</elementGuidId>
+   <elementGuidId>feac8fa2-cf8f-44cc-9c57-8f66bc3bbbbc</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>id</name>
       <type>Main</type>
       <value>id.binar.fp.secondhand:id/tv_profile_info</value>
-      <webElementGuid>d591e103-7ae9-4d52-be2a-4211e564ac7b</webElementGuid>
+      <webElementGuid>5a7db72a-012d-47c9-a125-3ef7b4d3e694</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

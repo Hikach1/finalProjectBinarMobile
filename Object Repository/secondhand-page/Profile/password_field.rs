@@ -3,7 +3,7 @@
    <description></description>
    <name>password_field</name>
    <tag></tag>
-   <elementGuidId>659b620f-9442-4eeb-9fcd-3d2f9ad7562d</elementGuidId>
+   <elementGuidId>5ef0500e-d3a4-422e-bb8f-8b16a5db20a6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>(//android.widget.ImageView[@resource-id=&quot;id.binar.fp.secondhand:id/shapeableImageView&quot;])[6]</value>
-      <webElementGuid>8275e9f1-8bce-4763-b193-fd8d55817aa0</webElementGuid>
+      <webElementGuid>de2a7337-d319-48f1-8ce3-a00e9625db0e</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

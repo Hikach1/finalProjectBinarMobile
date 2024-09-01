@@ -3,7 +3,7 @@
    <description></description>
    <name>3rdProdukTitle_text</name>
    <tag></tag>
-   <elementGuidId>8ee05957-f61b-4d8e-8bcf-0e20af993f9e</elementGuidId>
+   <elementGuidId>b26af35d-76ac-4c5f-9eee-b803a0eb77b8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//android.widget.TextView[@resource-id=&quot;id.binar.fp.secondhand:id/tv_product_name&quot; and @text=&quot;-&quot;]</value>
-      <webElementGuid>ef2a89ba-29e5-4c40-8700-1a24c7d52a07</webElementGuid>
+      <webElementGuid>c277e2fb-20a3-47cd-98f4-1013d4bdf0b3</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

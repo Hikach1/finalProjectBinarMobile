@@ -17,5 +17,5 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.verifyElementExist(findTestObject('Secondhand App/Appium Inspector/textDaftarRegis'), 0)
+Mobile.verifyElementExist(findTestObject('Secondhand App/Login And Register/textDaftarRegis'), 0)
 

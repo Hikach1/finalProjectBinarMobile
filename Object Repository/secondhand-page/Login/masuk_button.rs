@@ -3,7 +3,7 @@
    <description></description>
    <name>masuk_button</name>
    <tag></tag>
-   <elementGuidId>cb3f1d2a-bfc0-4564-a915-c67d6bfdd00c</elementGuidId>
+   <elementGuidId>851d7bca-f4af-4dd9-bdd7-7c39d6600c8e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//android.widget.Button[@resource-id=&quot;id.binar.fp.secondhand:id/btn_login&quot;]</value>
-      <webElementGuid>e55fe1c7-b5d4-4237-9085-add1e38231f9</webElementGuid>
+      <webElementGuid>3cdff5b4-c756-40cb-a44d-bc91451eb729</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

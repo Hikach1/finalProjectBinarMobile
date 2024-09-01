@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.PRF.004 - As a user, I can edit profile on Nomor HP field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0713433b-bb81-4ea9-aa4c-e86e981d5c1c</testCaseGuid>
+</TestCaseEntity>

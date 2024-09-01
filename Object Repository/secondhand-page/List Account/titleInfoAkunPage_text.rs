@@ -3,7 +3,7 @@
    <description></description>
    <name>titleInfoAkunPage_text</name>
    <tag></tag>
-   <elementGuidId>7cadf1a9-2ef2-4375-bf98-d063c0403679</elementGuidId>
+   <elementGuidId>a1f64b00-1ff5-4ed3-ba9a-dffa9c7c1481</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -19,6 +19,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//android.widget.TextView[@resource-id=&quot;id.binar.fp.secondhand:id/tv_title_page&quot;]</value>
-      <webElementGuid>74140572-c19a-42e1-92b3-e37d8e749948</webElementGuid>
+      <webElementGuid>e226e5e3-af47-4359-b6af-8c65cd7f5f25</webElementGuid>
    </webElementProperties>
 </WebElementEntity>
