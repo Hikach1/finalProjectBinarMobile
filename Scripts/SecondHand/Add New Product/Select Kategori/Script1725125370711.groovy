@@ -19,9 +19,13 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.verifyElementExist(findTestObject('secondhand-page/Add New Product/kategori_select'), 0)
 
+Mobile.delay(1, FailureHandling.STOP_ON_FAILURE)
+
 Mobile.tap(findTestObject('secondhand-page/Add New Product/kategori_select'), 0)
 
 Mobile.verifyElementExist(findTestObject('secondhand-page/Add New Product/kategoriHandphone_select'), 0)
+
+Mobile.delay(1, FailureHandling.STOP_ON_FAILURE)
 
 Mobile.tap(findTestObject('secondhand-page/Add New Product/kategoriHandphone_select'), 0)
 
