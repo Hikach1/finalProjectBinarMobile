@@ -1,4 +1,4 @@
-package regisApp
+package stepDefinition
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
@@ -45,31 +45,27 @@ import cucumber.api.java.en.When
 
 
 class regisApp {
-	
 
-//	def startApp() {
-//		Mobile.startApplication('apk/BinarMobile.apk', true);
-//		//WebUI.maximizeWindow();
-//		//WebUI.navigateToUrl(GlobalVariable.sauceDemo);
-//	}
-//	
-//	def closeApp() {
-//		Mobile.closeApplication();
-//	}
+	def randomInteger(int length) {
 
-	
+		String chars = "0123456789"
+		Random rand = new Random();
+		StringBuilder sb = new StringBuilder();
+		for (int i=0; i<length; i++) {
+			sb.append(chars.charAt(rand.nextInt(chars.length())));
+		}
+		return sb.toString();
+	}
+
+
 	@Given("User successfully uses the application on the device")
 	public void user_successfully_uses_the_application_on_the_device() {
 
 		Mobile.startApplication('apk/BinarMobile.apk', true);
-		//WebUI.maximizeWindow();
-		//WebUI.navigateToUrl(GlobalVariable.sauceDemo);
-		
 	}
 
 	@When("Open the app")
 	public void open_the_app() {
-		
 	}
 
 	@And("Tap Account button")
@@ -99,7 +95,8 @@ class regisApp {
 	@And("Input valid Email field")
 	public void input_valid_Email_field() {
 
-		WebUI.callTestCase(findTestCase('Pages/Registration Page/Set Email Field Regis'), [('emailFieldRegis') : 'SansTestKa14@gmail.com'],
+		String randomInt = this.randomInteger(5)
+		WebUI.callTestCase(findTestCase('Pages/Registration Page/Set Email Field Regis'), [('emailFieldRegis') : 'ValidEmail' + randomInt+ '@gmail.com'],
 		FailureHandling.STOP_ON_FAILURE)
 	}
 

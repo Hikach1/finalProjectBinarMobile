@@ -21,37 +21,36 @@ import com.kms.katalon.core.annotation.AfterTestCase
 import com.kms.katalon.core.annotation.AfterTestSuite
 import com.kms.katalon.core.context.TestCaseContext
 import com.kms.katalon.core.context.TestSuiteContext
-import com.kms.katalon.core.cucumber.keyword.internal.CucumberGlueGenerator
+//import com.kms.katalon.core.cucumber.keyword.internal.CucumberGlueGenerator
 
 import com.kms.katalon.core.util.KeywordUtil
 
 class Hook {
-	@BeforeTestCase
-	def beforeTestCases(TestCaseContext context) {
-	CucumberGlueGenerator.addDefaultPackages();
-	}
+
+	//Script for katalon version 9
+	//	@BeforeTestCase
+	//	def beforeTestCases(TestCaseContext context) {
+	//	CucumberGlueGenerator.addDefaultPackages();
+	//	}
 	
 	
 	
 	def startApplication() {
-		Mobile.startApplication('Apk/secondhand.apk', true)
+//		Mobile.startApplication('Apk/secondhand.apk', true)
 	}
 		
 	def closeApplication() {
-		Mobile.closeApplication()
+//		Mobile.closeApplication()
 	}
-	
 	
 	
 	@BeforeTestCase
 	def beforeTestCase(TestCaseContext testCaseContext) {
-		KeywordUtil.logInfo('Test Case: ' + testCaseContext.getTestCaseId())
 		this.startApplication()
 	}
 
 	@AfterTestCase
 	def afterTestCase(TestCaseContext testCaseContext) {
-		KeywordUtil.logInfo('Test Case: ' + testCaseContext.getTestCaseId())
 		this.closeApplication()
 	}
 	
