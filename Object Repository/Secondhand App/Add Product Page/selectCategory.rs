@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>buttonBeranda</name>
+   <name>selectCategory</name>
    <tag></tag>
-   <elementGuidId>d3dd6026-240b-4eba-88e8-7ab60f848478</elementGuidId>
+   <elementGuidId>fc304890-cc58-4cff-bcca-6268a14fa929</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
-   <locator>//android.widget.FrameLayout[@content-desc=&quot;Beranda&quot;]</locator>
+   <locator>//android.widget.Spinner[@resource-id=&quot;id.binar.fp.secondhand:id/et_product_category&quot;]</locator>
    <locatorStrategy>XPATH</locatorStrategy>
 </MobileElementEntity>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>buttonBeranda</name>
+   <name>categoryHead</name>
    <tag></tag>
-   <elementGuidId>d3dd6026-240b-4eba-88e8-7ab60f848478</elementGuidId>
+   <elementGuidId>2e77cc36-815b-4833-bd26-d5619058ec99</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
-   <locator>//android.widget.FrameLayout[@content-desc=&quot;Beranda&quot;]</locator>
+   <locator>//androidx.recyclerview.widget.RecyclerView[@resource-id=&quot;id.binar.fp.secondhand:id/rvCategory&quot;]</locator>
    <locatorStrategy>XPATH</locatorStrategy>
 </MobileElementEntity>

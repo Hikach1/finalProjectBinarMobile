@@ -17,3 +17,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('Step Definition/Login/User Login - Success_'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Click Plus Button'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Input Nama Produk'), [('namaProduk') : 'bla_'], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Input Harga Produk'), [('hargaProduk') : '10000'], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('Pages/Tambah Produk Page/Fix Select Kategori'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Input Lokasi'), [('lokasi') : 'Jakarta'], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Input Deskripsi'), [('deskripsi') : 'blablaja'], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Input Photo Produk'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Click Terbitkan Button'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('SecondHand/Add New Product/Success Add New Product'), [:], FailureHandling.STOP_ON_FAILURE)
+

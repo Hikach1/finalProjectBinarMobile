@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>buttonBeranda</name>
+   <name>selectKomputer</name>
    <tag></tag>
-   <elementGuidId>d3dd6026-240b-4eba-88e8-7ab60f848478</elementGuidId>
+   <elementGuidId>5b197df6-af4d-4423-b2bc-d1a9469c35e9</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
-   <locator>//android.widget.FrameLayout[@content-desc=&quot;Beranda&quot;]</locator>
+   <locator>//android.widget.TextView[@resource-id=&quot;id.binar.fp.secondhand:id/dropdown_menu&quot; and @text=&quot;Komputer dan Aksesoris&quot;]</locator>
    <locatorStrategy>XPATH</locatorStrategy>
 </MobileElementEntity>

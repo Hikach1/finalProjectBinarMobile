@@ -119,6 +119,7 @@ public class Login {
 	@When("User input valid password {string}")
 	public void user_input_valid_password(String setpassword) {
 		Mobile.callTestCase(findTestCase('Pages/Login Page/Set Password'), [('setpassword') :setpassword], FailureHandling.STOP_ON_FAILURE)
+		Mobile.delay(3)
 	}
 
 	@Then("User succesfully login and can see the akun page")

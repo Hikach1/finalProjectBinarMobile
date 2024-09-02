@@ -22,7 +22,7 @@ As A User, I want to login to homepage of secondhand mobile
   And User click masuk button
   Then User succesfully login and can see the transaksi page
   
-
+  @TC.LoginMob.003
   Scenario: User want to login using correct credential direct navigate to notifikasi page.
    Given User succesfully launch in landing page
   When User click button notifikasi on navbar
@@ -31,7 +31,6 @@ As A User, I want to login to homepage of secondhand mobile
   And User input valid password "123456"
   And User click masuk button
   Then User succesfully login and can see the notifikasi page
-  
   
   @TC.LoginMob.004
   Scenario: User want to login using correct credential direct navigate to tambah produk baru page.

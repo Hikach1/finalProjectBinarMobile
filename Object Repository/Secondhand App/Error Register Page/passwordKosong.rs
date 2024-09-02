@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>buttonBeranda</name>
+   <name>passwordKosong</name>
    <tag></tag>
-   <elementGuidId>d3dd6026-240b-4eba-88e8-7ab60f848478</elementGuidId>
+   <elementGuidId>8d7f49de-8dd1-4f0e-91a8-31a050543c32</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
-   <locator>//android.widget.FrameLayout[@content-desc=&quot;Beranda&quot;]</locator>
+   <locator>//android.widget.TextView[@resource-id=&quot;id.binar.fp.secondhand:id/textinput_error&quot;]</locator>
    <locatorStrategy>XPATH</locatorStrategy>
 </MobileElementEntity>

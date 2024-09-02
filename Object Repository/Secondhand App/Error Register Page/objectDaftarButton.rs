@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>buttonBeranda</name>
+   <name>objectDaftarButton</name>
    <tag></tag>
-   <elementGuidId>d3dd6026-240b-4eba-88e8-7ab60f848478</elementGuidId>
+   <elementGuidId>a0ef6684-9b18-42a3-b288-b1cf058ca9b3</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
-   <locator>//android.widget.FrameLayout[@content-desc=&quot;Beranda&quot;]</locator>
+   <locator>//android.widget.Button[@resource-id=&quot;id.binar.fp.secondhand:id/btn_register&quot;]</locator>
    <locatorStrategy>XPATH</locatorStrategy>
 </MobileElementEntity>

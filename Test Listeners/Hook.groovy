@@ -37,11 +37,11 @@ class Hook {
 	
 
 	def startApplication() {
-		Mobile.startApplication('Apk/secondhand.apk', true)
+//		Mobile.startApplication('Apk/secondhand.apk', true)
 	}
 		
 	def closeApplication() {
-		Mobile.closeApplication()
+//		Mobile.closeApplication()
 	}
 	
 	
