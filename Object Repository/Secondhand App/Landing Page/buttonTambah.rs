@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>buttonTambah</name>
+   <tag></tag>
+   <elementGuidId>d508afa8-686a-4b71-a31a-495adbe10622</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.ImageButton[@content-desc=&quot;Jual&quot;]</value>
+      <webElementGuid>e4d8ee5c-71f8-4824-9165-1f58bf8be19b</webElementGuid>
+   </webElementProperties>
+   <locator>//android.widget.ImageButton[@content-desc=&quot;Jual&quot;]</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</MobileElementEntity>

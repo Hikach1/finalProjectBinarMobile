@@ -17,9 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.verifyElementExist(findTestObject('Secondhand App/Appium Inspector/emailField'), 0)
+Mobile.verifyElementExist(findTestObject('Secondhand App/Login And Register/fieldEmail'), 0)
 
-Mobile.verifyElementExist(findTestObject('Secondhand App/Appium Inspector/passwordField'), 0)
+Mobile.verifyElementExist(findTestObject('Secondhand App/Login And Register/fieldPassword'), 0)
 
-Mobile.verifyElementExist(findTestObject('Secondhand App/Appium Inspector/masukButton2'), 0)
+Mobile.verifyElementExist(findTestObject('Secondhand App/Login And Register/masukButton2'), 0)
 

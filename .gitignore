@@ -21,9 +21,12 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
+apk
 Libs/TempTestCase*.groovy
 Libs/TempTestSuite*.groovy
 Reports
 settings/internal/com.kms.katalon.integration.analytics.properties
 settings/internal/com.kms.katalon.integration.jira.properties
 .cache
+.project
+.classpath

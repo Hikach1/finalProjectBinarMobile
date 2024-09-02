@@ -23,7 +23,7 @@ WebUI.callTestCase(findTestCase('Pages/Landing Page/Tap Button Account'), [:], F
 
 WebUI.callTestCase(findTestCase('Pages/Account Page/Tap Button Masuk Before Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.callTestCase(findTestCase('Pages/Login Page/Tap Button Daftar'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Pages/Login Page/Set Password'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('Pages/Registration Page/Set Nama Field Regis'), [('nameFieldRegis') : 'Sans'], FailureHandling.STOP_ON_FAILURE)
 

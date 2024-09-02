@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.verifyElementExist(findTestObject('Secondhand App/Appium Inspector/textAkunSaya'), 0)
+Mobile.verifyElementExist(findTestObject('Secondhand App/Login And Register/textAkunSaya'), 0)
 
 WebUI.delay(5)
 

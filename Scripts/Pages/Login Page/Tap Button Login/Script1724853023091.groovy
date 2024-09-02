@@ -17,9 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.setText(findTestObject('Secondhand App/Appium Inspector/emailField'), 'katalonqppium@gmail.com', 0)
+Mobile.setText(findTestObject('Secondhand App/Login And Register/fieldEmail'), 'katalonqppium@gmail.com', 0)
 
-Mobile.setText(findTestObject('Secondhand App/Appium Inspector/passwordField'), '123456', 0)
+Mobile.setText(findTestObject('Secondhand App/Login And Register/fieldPassword'), '123456', 0)
 
-Mobile.tap(findTestObject('Secondhand App/Appium Inspector/masukButton2'), 0)
+Mobile.tap(findTestObject('Secondhand App/Login And Register/masukButton2'), 0)
 

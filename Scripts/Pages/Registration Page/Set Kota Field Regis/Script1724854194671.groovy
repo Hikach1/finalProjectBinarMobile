@@ -21,5 +21,5 @@ Mobile.swipe(329, 1113, 329, 290)
 
 WebUI.delay(2)
 
-Mobile.setText(findTestObject('Secondhand App/Appium Inspector/kotaFieldRegis'), kotaFieldRegis, 0)
+Mobile.setText(findTestObject('Secondhand App/Login And Register/kotaFieldRegis'), kotaFieldRegis, 0)
 

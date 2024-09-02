@@ -17,5 +17,5 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.setText(findTestObject('Secondhand App/Appium Inspector/passwordFieldRegis'), passwordFieldRegis, 0)
+Mobile.setText(findTestObject('Secondhand App/Login And Register/passwordFieldRegis'), passwordFieldRegis, 0)
 

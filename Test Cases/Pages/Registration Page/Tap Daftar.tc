@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tap Daftar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3932f1a8-4c9c-4d1a-801d-d98e3c29134c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>003ffe46-76f8-420d-844d-e1d948ab1a51</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>003ffe46-76f8-420d-844d-e1d948ab1a51</id>
+      <masked>false</masked>
+      <name>setpassword</name>
+   </variable>
+</TestCaseEntity>
